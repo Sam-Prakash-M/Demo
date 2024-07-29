@@ -1,7 +1,7 @@
 #include <iostream>
 
 class Sam{
-
+public :
 Sam() {
 
   std :: cout << "Constructor Called" << std :: endl;
