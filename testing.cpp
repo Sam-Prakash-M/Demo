@@ -5,7 +5,6 @@ public :
 
 void print() {
   std :: cout << "Print Method Called...\n" << std :: endl;
-  std :: cout << "This is a test" << std :: endl;
 }
 Sam() {
 
